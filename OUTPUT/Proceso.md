@@ -27,4 +27,15 @@ Responde (no me lo puedo creer) que tal. (es el momento de mayor orgullo desde q
 
 ![alt text](INPUT/error3.png) 
 
-6.- video 3h. 09min
+6.- Creo app.py en src
+    el video que tengo es de curso antiguo y no coincide exactamnete con el ejemplo. Intento copiar el ejemplo de este curso a traves de los 
+    apuntes de Marc para intentar que funcione una API casi exacta a la suya desde mi terminal
+
+    Preguntas:
+    es necesario el init vacio?
+    para que servia el Dockerfile? (revisar documetnacion)
+    saca el vscode a una cartpeta pero el codigo no es un json real
+    syncDb.sh? para que sirve?
+
+
+7. Solo falta copiar el jupyter api_test que es lo que voy a intentar ejecutar.

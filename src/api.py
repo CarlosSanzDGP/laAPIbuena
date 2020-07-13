@@ -1,10 +1,7 @@
 #api.py
-from flask import Flask, request
-from config import PORT
-from controller.carlos import generateController
-
-app = Flask (__name__)
-
-generateController(app)
+from src.app import app
+from src.config import PORT
+import src.controllers.ta
+import src.controllers.companies
 
 app.run("0.0.0.0", PORT, debug=True)
