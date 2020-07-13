@@ -14,10 +14,15 @@
 
     Sigo a pesar del error que no he podido solucionar.
 
-3.- ALTO. Se ha solucionado lo anterior y no consigo saber como. No se si algo no se habia guardado y por lo tanto
+3.- ALTO. Un buen rato revisando y se ha solucionado lo anterior y no consigo saber como. No se si algo no se habia guardado y por lo tanto
 no habia ejecutado correctamente. Quiza el ".config" cambiado a "config". El caso es que ahora funciona.
 (Joder, es la primera vez que me funciona algo de esto!)
 
 ![alt text](INPUT/error2.png) 
 
 4.- Creacion de gitignore desde el propio visual, no copiado desde github (mil veces mejor)
+
+5.- Crear controllers y carlos. (y vincularlos) y hacer la peticion de "hola" al navegador. 
+Responde (no me lo puedo creer) que tal. (es el momento de mayor orgullo desde que empezo el bootcamp)
+
+![alt text](INPUT/error3.png) 
